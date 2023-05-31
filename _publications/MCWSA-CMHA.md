@@ -1,7 +1,7 @@
 ---
 title: "MCWSA-CMHA"
 collection: publications
-permalink: /publication/2022-01-25-MCWSA-CMHA
+permalink: /publication/MCWSA-CMHA
 excerpt: 'Multi-channel Weight-sharing Autoencoder Based on Cascade Multi-head Attention for Multimodal Emotion Recognition'
 date: 2022-01-25
 venue: 'Journal 25'
