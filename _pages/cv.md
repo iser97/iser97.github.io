@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automatic, Northeastern University, 2019
+* M.S. in Control science and control engineering, Huazhong University of Science and Technology, 2022
+* Ph.D in Computer Science, City University of Hong Kong, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021.06 - 2021.08: Algorithm Intern
+  * Tencent
+  * Duties included: Research on semantic matching algorithm
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021.08 - 2021.09: Algorithm Intern
+  * ByteDance
+  * Duties included: Research on cross-modal retrieval algorithm
+
+* 2022.07 - 2022.10: Algorithm Engineer
+  * ByteDance
+  * Duties included: Research on cross-modal retrieval algorithm
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python/C++/Matlab
+* Deep learning framwork
+  * Pytorch
+  * Tensorflow
+  * Sklearn
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+1. Multi-channel weight-sharing autoencoder based on cascade multi-head attention for multimodal emotion recognition
+
+2. Mmtrans-mt: A framework for multimodal emotion recognition using multitask learning
