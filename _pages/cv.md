@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Automatic, Northeastern University, 2019
-* M.S. in Control science and control engineering, Huazhong University of Science and Technology, 2022
+* M.S. in Control Science and Control Engineering, Huazhong University of Science and Technology, 2022
 * Ph.D in Computer Science, City University of Hong Kong, 2026 (expected)
 
 Work experience
